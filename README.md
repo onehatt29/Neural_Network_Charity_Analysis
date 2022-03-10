@@ -4,6 +4,10 @@
 #   The trained model will be used to 
 
 
+![Neural_Network_Charity_Analysis](https://github.com/onehatt29/Neural_Network_Charity_Analysis/blob/main/Charity/testdata model.PNG)
+   
+
+
 
 ##  During the preprocessing stage of the Neural network model the model is cleaned up for further analysis. 
 ##  During this stage the model is used to analyze the charity data using a neural network, during this stage we can pull numbers from the data based on choosing criteria.
